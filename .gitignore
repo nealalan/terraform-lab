@@ -1,0 +1,7 @@
+.aws/
+.git/
+.ssh/
+.terraform/
+secret*
+*.tfstate
+*tfstate.backup
